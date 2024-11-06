@@ -6,4 +6,8 @@ change status to Modified
 
 new line for tree view
 
+ссылка на репозиторий gitlab, закоммиченная с помощью графического интерфейса VS Code:
+```
+https://gitlab.com/hachubra1/devops-netology
+```
 
